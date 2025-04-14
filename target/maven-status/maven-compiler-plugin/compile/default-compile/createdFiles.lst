@@ -1,0 +1,11 @@
+com\quizapp\onlinequizsystem\resources\JakartaEE10Resource.class
+com\quizapp\servlet\LoginServlet.class
+com\quizapp\onlinequizsystem\JakartaRestConfiguration.class
+com\quizapp\model\Question.class
+com\quizapp\dao\UserDAO.class
+com\quizapp\servlet\QuizServlet.class
+com\quizapp\dao\QuestionDAO.class
+com\quizapp\servlet\SubmitQuizServlet.class
+com\quizapp\servlet\RegisterServlet.class
+com\quizapp\model\User.class
+com\quizapp\servlet\AddQuestionServlet.class
